@@ -432,7 +432,3 @@ mkdir dataset/person1
 - Restart the application
 
 ---
-
-Made with care by [Your Name]
-
-**Star this repo if you find it helpful!**
