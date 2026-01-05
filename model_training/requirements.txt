@@ -1,0 +1,22 @@
+# Flask Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Deep Learning & Face Recognition
+deepface==0.0.79
+tensorflow==2.17.0
+tf-keras==2.17.0
+
+# Computer Vision
+opencv-python==4.8.1.78
+
+# Data Processing
+pandas==2.1.3
+numpy==1.24.3
+
+# Image Processing
+Pillow==10.1.0
+
+# Additional Dependencies (installed automatically by deepface)
+retina-face==0.0.13
+gdown==4.7.1
